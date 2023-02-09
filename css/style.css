@@ -78,7 +78,7 @@
 }
 .box-main{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     color: whitesmoke;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
